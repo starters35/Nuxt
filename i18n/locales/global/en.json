@@ -1,0 +1,61 @@
+{
+  "welcome": {
+    "title": "Welcome to ash × Nuxt {version}!",
+    "description": "Get started by removing this welcome component from {path} and deleting {component}.",
+    "viewOnGitHub": "View on GitHub",
+
+    "features": {
+      "title": "Features",
+      "description": "This starter comes with many of the parts you'll need to build a modern web app.",
+      "nuxt": {
+        "title": "Nuxt 5",
+        "description": "Nuxt 5 is a framework for building modern, full-stack web applications with Vue.js."
+      },
+      "typescript": {
+        "title": "TypeScript",
+        "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript that brings important type safety to your applications."
+      },
+      "sass": {
+        "title": "Sass",
+        "description": "Sass is a CSS preprocessor that extends CSS with new features such as variables, nested rules, mixins, and more."
+      },
+      "nuxtModules": {
+        "title": "Fonts & Icons",
+        "description": "Nuxt modules for fonts and icons facilitate the use of fonts and icons in your Nuxt application."
+      },
+      "i18n": {
+        "title": "Internationalization",
+        "description": "Internationalization (i18n) makes it easy to create applications that support multiple languages."
+      },
+      "prettier": {
+        "title": "Prettier",
+        "description": "Prettier is an opinionated code formatter that enforces a consistent style across your codebase."
+      }
+    },
+
+    "resources": {
+      "title": "Nuxt Resources",
+      "description": "Here are some resources to help you get started with Nuxt.",
+      "documentation": {
+        "title": "Documentation",
+        "description": "We highly recommend you take a look at the Nuxt documentation to level up."
+      },
+      "modules": {
+        "title": "Modules",
+        "description": "Discover our list of modules to supercharge your Nuxt project."
+      },
+      "examples": {
+        "title": "Examples",
+        "description": "Explore our collection of example projects to see how Nuxt can be used."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Explore different way of using Nuxt features and get inspired."
+      },
+      "deploy": {
+        "title": "Deploy",
+        "description": "Learn how to deploy your Nuxt project on different providers."
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "untitled": "Untitled",
+    "noDescription": "No description.",
+
+    "welcome": {
+      "title": "Welcome",
+      "description": "This is an opinionated starter template for Nuxt 3 with TypeScript, Sass, Prettier, fonts, icons, and i18n."
+    }
+  },
+  "groups": {
+    "main": "Site",
+    "ash": "ash's Template"
+  }
+}
