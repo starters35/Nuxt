@@ -5,7 +5,7 @@
 </template>
 
 <style scoped lang="sass">
-  .defaultLayout
-    width: 100%
-    max-width: 55rem
+.defaultLayout
+  width: 100%
+  max-width: 55rem
 </style>
